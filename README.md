@@ -5,7 +5,11 @@ routes for node.js
 ```
 npm install atpl-route   
 ```
+or  
 
+```
+bower install atpl-route 
+```
 # usage  
 
 ```

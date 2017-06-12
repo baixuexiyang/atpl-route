@@ -1,0 +1,19 @@
+{
+  "name": "atpl-route",
+  "authors": [
+    "ganzw <ganzwen@gmail.com>"
+  ],
+  "description": "route for atpl",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
