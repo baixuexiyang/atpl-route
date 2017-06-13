@@ -1,6 +1,6 @@
 {
   "name": "atpl-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "route for atpl",
   "main": "index.js",
   "directories": {
